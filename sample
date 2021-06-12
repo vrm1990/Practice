@@ -2,5 +2,11 @@ What's my name?
 Rahul Varma
 Age?
 29
+<<<<<<< HEAD
 Weight?
 85 kilos
+=======
+Height?
+5 feet 10 inches
+-changes have been added succesfully-
+>>>>>>> new
